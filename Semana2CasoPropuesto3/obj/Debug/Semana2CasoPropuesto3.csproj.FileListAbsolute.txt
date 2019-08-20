@@ -1,0 +1,10 @@
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\bin\Debug\Semana2CasoPropuesto3.exe.config
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\bin\Debug\Semana2CasoPropuesto3.exe
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\bin\Debug\Semana2CasoPropuesto3.pdb
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.csprojAssemblyReference.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.Form1.resources
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.Properties.Resources.resources
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.csproj.GenerateResource.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.csproj.CoreCompileInputs.cache
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.exe
+B:\Proyectos de Aplicaciones Web Avanzado\Semana2CasoPropuesto3\Semana2CasoPropuesto3\obj\Debug\Semana2CasoPropuesto3.pdb
